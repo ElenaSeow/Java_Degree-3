@@ -1,0 +1,17 @@
+RE001:Elena:elena@gmail.com:elena123:Resident:A-12-3
+RE002:Ryan:ryan@gmail.com:ryan123:Resident:A-2-3
+RE003:Roshan:roshan@gmail.com:roshan123:Resident:F-2-1
+VE001:Megan:megan@gmail.com:megan123:Vendor:D-2-3
+VE002:Darren:darren@gmail.com:darren123:Vendor:E-2-12
+AE001:Louis:louis@gmail.com:louis123:AdminExecutive:C-12-2
+AE002:SiangYin:siang@gmail.com:siang123:AdminExecutive:A-2-2
+AEX001:Camille:camille@gmail.com:camille123:AccountExecutive:C-1-1
+AEX002:Eric:eric@gmail.com:eric123:AccountExecutive:D-1-1
+building manager - BM
+account executive - AE
+admin executive - AD
+building executive - BE
+resident - RE
+vendor - VE
+security guard - SG
+visitor - VR
