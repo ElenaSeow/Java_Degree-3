@@ -8,7 +8,7 @@ package JClasses;
  *
  * @author HP
  */
-public class Resident {
+public class ResidentClass {
     private String name;
     private String email;
     private String password;
@@ -17,7 +17,7 @@ public class Resident {
     private String role;
     
     
-    public Resident(String name, String email, String password, String id, String telno, String role) {
+    public ResidentClass(String name, String email, String password, String id, String telno, String role) {
         this.name = name;
         this.email = email;
         this.password = password;
